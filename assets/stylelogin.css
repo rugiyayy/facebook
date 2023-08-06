@@ -93,9 +93,12 @@ form>button:last-of-type{
     text-align: center;
     border:2px solid  rgb(101,181,67);
     background-color: #42b72a;
-    color: white;
     font-weight: bolder;
     font-size: larger;
+}
+button>a{
+    color: white;
+    text-decoration: none;
 }
 form>button:last-of-type:hover{
     cursor: pointer;

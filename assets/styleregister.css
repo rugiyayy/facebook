@@ -137,5 +137,18 @@ button{
     color: white;
     font-size: large;
     font-weight: bolder;
-    margin:4% 0 7% 27%;
+    margin:4% 0 5% 27%;
+}
+.main > p{
+    margin:-10% 0 5% 20%;
+}
+.main>p>a{
+    font-size: small;
+    font-weight: bolder;
+    color: rgb(41, 71, 238);
+    transition: 1s;
+}
+.main>p>a:hover{
+    text-decoration: none;
+    letter-spacing: 5px;
 }
